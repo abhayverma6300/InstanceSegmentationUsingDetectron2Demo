@@ -1,0 +1,34 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "phone",
+      "points": [
+        [
+          1090.5000000000005,
+          1749.0
+        ],
+        [
+          1180.5000000000005,
+          1749.0
+        ],
+        [
+          1515.5000000000005,
+          2159.0
+        ],
+        [
+          1410.5000000000005,
+          2164.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "laura-chouette-112gZH6-v6w-unsplash.jpg",
+  "imageData": null,
+  "imageHeight": 4608,
+  "imageWidth": 3456
+}

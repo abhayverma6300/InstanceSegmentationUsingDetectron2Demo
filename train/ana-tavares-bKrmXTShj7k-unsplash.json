@@ -1,0 +1,46 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "phone",
+      "points": [
+        [
+          1679.375,
+          2848.75
+        ],
+        [
+          1791.875,
+          2923.75
+        ],
+        [
+          1866.875,
+          2998.75
+        ],
+        [
+          1823.125,
+          2773.75
+        ],
+        [
+          1654.375,
+          2680.0
+        ],
+        [
+          1616.875,
+          2692.5
+        ],
+        [
+          1610.625,
+          2873.75
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ana-tavares-bKrmXTShj7k-unsplash.jpg",
+  "imageData": null,
+  "imageHeight": 5760,
+  "imageWidth": 3840
+}
